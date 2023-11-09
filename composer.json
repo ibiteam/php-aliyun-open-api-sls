@@ -1,5 +1,5 @@
 {
-  "name": "lokielse/aliyun-open-api-sls",
+  "name": "ibiteam/aliyun-open-api-sls",
   "description": "The SLS SDK for Aliyun OpenAPI",
   "keywosls": [
     "aliyun",
@@ -8,18 +8,18 @@
     "sdk",
     "logs"
   ],
-  "homepage": "https://github.com/lokielse/aliyun-open-api-sls",
+  "homepage": "https://github.com/ibiteam/aliyun-open-api-sls",
   "license": "MIT",
   "authors": [
     {
-      "name": "lokielse",
-      "email": "lokielse@gmail.com",
-      "homepage": "http://lokielse.org",
+      "name": "ibiteam",
+      "email": "opensource-dd@ueiibi.com",
+      "homepage": "https://opensource.bjguolian.cn",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=5.3.0",
+    "php": "^8.2",
     "lokielse/aliyun-open-api-core": "^1.0.0"
   },
   "require-dev": {

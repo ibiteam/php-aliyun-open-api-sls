@@ -14,7 +14,7 @@ The SLS SDK for Aliyun OpenAPI
 Via Composer
 
 ``` bash
-$ composer require lokielse/aliyun-open-api-sls
+$ composer require ibiteam/aliyun-open-api-sls
 ```
 
 ## Usage
