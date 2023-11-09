@@ -1,11 +1,11 @@
 # Changelog
 
-All Notable changes to `lokielse/aliyun-open-api-sls` will be documented in this file
+All Notable changes to `ibiteam/aliyun-open-api-sls` will be documented in this file
 
-## NEXT - 2015-12-20
+## update :  2023-11-09
 
 ### Added
-- 1.0.0
+- 1.0
 
 ### Deprecated
 - Nothing
